@@ -1,9 +1,9 @@
 {
 	"type": "mashup",
 	"name": "mashup-bootstrap4",
-	"description": "Basic responsive mashup template",
+	"description": "Basic responsive mashup template vertical navigation - Bootstrap 4.2",
 	"version": "1.0.0",
-	"author": "",
+	"author": "Gabriel Jony",
 	"homepage": "",
 	"keywords": "qlik-sense, visualization, mashup",
 	"license": "",
